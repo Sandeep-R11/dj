@@ -18,7 +18,7 @@ In This DBMS Project I covered Social Media Users All details Like...
 
 # Entity Relation Model
  
- ![ER Diagram of User Database](https://github.com/Sachit160/Social-Media-Users-Database-Managment-System/blob/master/User-ER-Diagram.jpg)
+ ![ER Diagram of User Database](https://github.com/Sachit160/social-media-database-management-system/blob/master/User-ER-Diagram.jpg) 
  
 ### Contributing
 	
