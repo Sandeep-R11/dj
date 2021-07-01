@@ -12,7 +12,6 @@ In This DBMS Project I covered Social Media Users All details Like...
 * Relational Database design
 * Query Processing & Query Optimization
 * SQL Concepts
-* PL/SQL Concepts
 * Basic Use of MySQL
 * Java Database Connectivity
 
